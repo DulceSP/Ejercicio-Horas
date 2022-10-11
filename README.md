@@ -23,12 +23,12 @@ y que el segundo día es posterior al primero.
 Día Inicial: Martes                         Hora Inicial: 08:00 hrs
 Día Final: Jueves                           Hora Fin: 10:00 hrs
 -------------------------------------------------------------------
-han transcurrido # horas desde el día martes al día juevges en las 
+Han transcurrido # horas desde el día martes al día jueves en las 
 horas indicadas
 -------------------------------------------------------------------
 ~~~
 
 ## Etapa 3. Diseño de la solución
-![](https://github.com/DulceSP/Ejercicio-Horas/blob/main/T3A2.png?raw=true)
+![](https://github.com/DulceSP/Ejercicio-Horas/blob/main/T3A2..png?raw=true)
 
 ## Etapa 4. Desarrollo de la solución
