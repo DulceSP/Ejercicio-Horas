@@ -27,6 +27,6 @@ Entere las 10 del lunes y las 16 horas del miércoles hay 54 horas
 ---------------------------------------------------------------------
 
 ## Etapa 3. Diseño de la solución
-
+https://github.com/DulceSP/Ejercicio-Horas/blob/main/T3A2.png?raw=true
 
 ## Etapa 4. Desarrollo de la solución
